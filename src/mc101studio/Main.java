@@ -1,4 +1,4 @@
-package mc303studio;
+package mc101studio;
 
 import javax.swing.*;
 import javax.swing.event.HyperlinkEvent;

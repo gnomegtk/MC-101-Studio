@@ -31,4 +31,4 @@ MC‑101 Studio is a multi-editor Java application designed to control the Rolan
 You can compile the source files using the provided Makefile or manually compile:
 
 ```bash
-javac -d bin -cp . src/mc303studio/*.java
+javac -d bin -cp . src/mc101studio/*.java
