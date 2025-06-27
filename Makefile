@@ -4,7 +4,7 @@ JAR         := jar
 JAVA        := java
 
 # Directories
-SRC_DIR     := src/main/java
+SRC_DIR     := src/
 RES_DIR     := src/main/resources
 BIN_DIR     := bin
 MANIFEST    := manifest.mf
